@@ -1,0 +1,47 @@
+.right-text {
+    text-align: right !important;
+}
+
+.bi {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	line-height: 30px;
+	text-align: center;
+	color: red;
+	font-size: 28px;
+}
+
+.btn-group-sm > .btn,
+.btn-sm {
+	margin: 0;
+	padding: 0;
+}
+
+.cart-input {
+	width: 45px !important;
+	height: 30px;
+	border: 0.5px solid rgba(255, 0, 0, 0.5);
+	border-radius: 4px !important;
+	box-sizing: content-box;
+	margin: 0;
+	padding: 0;
+}
+
+.bi-trash {
+	color: black;
+	font-size: 25px;
+}
+
+.bi-trash:hover {
+	color: red;
+}
+
+
+
+
+a{
+	text-decoration: none !important;
+  }
+  
